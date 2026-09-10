@@ -1,1 +1,93 @@
-[]
+[
+    {
+        "id": "EHr3n6Okxnh-vXX3P_JKIADIbqefs6vf",
+        "plugin": "dataview",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "0.5.68",
+        "title": "Dataview",
+        "description": "Complex data views for the data-obsessed.",
+        "hash": "30de803b30de803b30de803b30de803b",
+        "created_at": "2026-09-10T13:07:18.656Z",
+        "updated_at": "2026-09-10T13:07:18.656Z"
+    },
+    {
+        "id": "UZzaiOt65JXX6B-wI1ogZwYGIvqAgdvr",
+        "plugin": "bases-kanban",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.1",
+        "supported_versions": "1.0.1",
+        "title": "Bases Kanban",
+        "description": "Bases Kanban Localization & Tweaks",
+        "hash": "4c088ff94c088ff94c088ff94c088ff9",
+        "created_at": "2026-09-10T13:07:18.658Z",
+        "updated_at": "2026-09-10T13:07:18.658Z"
+    },
+    {
+        "id": "hgoRzc8sPMUiUglyD6TGLUSc-b0Km-kN",
+        "plugin": "obsidian-kanban",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "2.0.51",
+        "title": "Kanban",
+        "description": "Create markdown-backed Kanban boards in Obsidian.",
+        "hash": "31d6dcc431d6dcc431d6dcc431d6dcc4",
+        "created_at": "2026-09-10T13:07:18.657Z",
+        "updated_at": "2026-09-10T13:07:18.657Z"
+    },
+    {
+        "id": "PZMRWWyP5V5jFNB6kNW1ivkSCdoHES5W",
+        "plugin": "templater-obsidian",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "2.9.2",
+        "title": "[zh-cn] Templater",
+        "description": "Create and use templates",
+        "hash": "55c0958b55c0958b55c0958b55c0958b",
+        "created_at": "2026-09-10T13:07:18.657Z",
+        "updated_at": "2026-09-10T13:07:18.657Z"
+    },
+    {
+        "id": "lRgUDqq2fAgPy7ucQtOgqD9IDfGgKy7r",
+        "plugin": "obsidian-importer",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "1.6.5",
+        "title": "Importer",
+        "description": "Import data from Notion, Evernote, Apple Notes, Microsoft OneNote, Google Keep, Bear, Roam, and HTML files.",
+        "hash": "060c28f6060c28f6060c28f6060c28f6",
+        "created_at": "2026-09-10T13:07:18.658Z",
+        "updated_at": "2026-09-10T13:07:18.658Z"
+    },
+    {
+        "id": "OwEz719HugL1EQEveFbf8rxC-8RJ6qxa",
+        "plugin": "obsidian-excalidraw-plugin",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "2.0.0",
+        "supported_versions": "2.8.3",
+        "title": "Excalidraw",
+        "description": "An Obsidian plugin to edit and view Excalidraw drawings",
+        "hash": "226fc0f1226fc0f1226fc0f1226fc0f1",
+        "created_at": "2026-09-10T13:07:18.658Z",
+        "updated_at": "2026-09-10T13:07:18.658Z"
+    },
+    {
+        "id": "HqHtVBNpHOIaxQRL_r6X2wbhvJ-e5v5m",
+        "plugin": "safe-filename-linter",
+        "type": "plugin",
+        "language": "zh-cn",
+        "version": "1.0.1",
+        "supported_versions": "1.1.4",
+        "title": "Safe Filename Linter",
+        "description": "Safe Filename Linter Localization & Tweaks",
+        "hash": "6d0b9f646d0b9f646d0b9f646d0b9f64",
+        "created_at": "2026-09-10T13:07:18.658Z",
+        "updated_at": "2026-09-10T13:07:18.658Z"
+    }
+]
